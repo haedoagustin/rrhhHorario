@@ -2,8 +2,8 @@
 
 Creado por https://github.com/sysi-lp
 
-1. Instalar extensión en chrome:
-.. https://chrome.google.com/webstore/detail/custom-javascript-for-web/poakhlngfciodnhlhhgnaaelnpjljija
+1. Instalar extensión en chrome: 
+https://chrome.google.com/webstore/detail/custom-javascript-for-web/poakhlngfciodnhlhhgnaaelnpjljija
 
 2. Agregar el script:
 ```javascript
