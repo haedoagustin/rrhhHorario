@@ -7,5 +7,5 @@ https://chrome.google.com/webstore/detail/custom-javascript-for-web/poakhlngfcio
 
 2. Agregar el script:
 ```javascript
-var Dia = new Date();var ticks = Dia.getTime();var URL= window.location.pathname;console.log(URL);if ( (URL.includes("fichada"))) {$.getScript("https://kity-linuxero.github.io/rrhhHorario/horario.js?"+ticks);}
+var Dia = new Date();var ticks = Dia.getTime();var URL= window.location.pathname;console.log(URL);if ( (URL.includes("fichada"))) {$.getScript("https://haedoagustin.github.io/rrhhHorario/horario.js?"+ticks);}
 ```
